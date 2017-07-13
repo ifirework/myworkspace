@@ -1,5 +1,4 @@
 import com.d.designDemo.observer.ObverserWQ;
-import com.d.designDemo.observer.WeatherCenter;
 import com.d.designDemo.observer.WeatherCenterBj;
 import com.d.designDemo.observer.get.ObserverHN;
 import com.d.designDemo.observer.get.ObserverSX;
@@ -8,8 +7,6 @@ import org.junit.Test;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Observable;
-import java.util.Observer;
 
 /**
  * Created by Administrator on 2017/7/13.
